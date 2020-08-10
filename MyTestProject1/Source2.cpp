@@ -1,10 +1,10 @@
 #include<stdio.h>
 int main()
 {
-	float l, w, A;
+	float l, h, A;
 	scanf("%f", &l);
-	scanf("%f", &w);
-	A = 0.5 * l * w;
+	scanf("%f", &h);
+	A = 0.5 * l * h;
 	printf("\nThis triangle area is %f", A);
 	return 0;
 }
