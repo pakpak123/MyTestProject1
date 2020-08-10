@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Challenge_loop_if_basicmath.cpp" />
+    <ClCompile Include="Source2.cpp" />
     <ClCompile Include="Source1.cpp" />
   </ItemGroup>
   <ItemGroup>
